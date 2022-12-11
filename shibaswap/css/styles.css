@@ -1,0 +1,29 @@
+.newbtn{
+    background: #f79132;
+    padding: 10px 53px;
+    color: #fff;
+    font-size: 20px !important;
+    font-weight: 500 !important;
+  }
+  .newbtn1 {
+    background: #244de5;
+    padding: 10px 53px;
+    color: #fff;
+    font-size: 20px !important;
+    font-weight: 500 !important;
+}
+.newbtn2 {
+    background: #4196fc;
+    padding: 10px 53px;
+    color: #fff;
+    font-size: 20px !important;
+    font-weight: 500 !important;
+}
+#open{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+label.error{
+    padding-top:10px;
+}
